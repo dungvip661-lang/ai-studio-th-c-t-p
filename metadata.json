@@ -1,0 +1,6 @@
+{
+  "name": "Gia Phả Số - Cội Nguồn Dòng Họ",
+  "description": "Nền tảng số hoá phả hệ dòng tộc thông minh, tra cứu thế hệ, lịch giỗ chạp, nguồn gốc di sản cổ thư và trợ lý AI tri thức dòng họ.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
